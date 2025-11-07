@@ -51,10 +51,10 @@ a small, self-contained exercise to test real coding skills and improve problem-
 ## 🗓️ My Progress Diary
 
 All learning logs and daily notes are stored in the  
-📁 [`/diary/`](diary/index.md) folder — documenting progress, reflections, and next goals.  
+📁 [`/diary/`](Diary/index.md) folder — documenting progress, reflections, and next goals.  
 
 Example entries:
-- 🧮 [Python Basics Completed — Calculator Project](diary/2025-11-07_python_basics_complete.md)
+- 🧮 [Python Basics Completed — Calculator Project](Diary/2025-11-07_python_basics_complete.md)
 - 💡 Next: Debug version improvements and To-Do Manager prototype
 
 ---
