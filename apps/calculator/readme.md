@@ -53,5 +53,10 @@ My goal is to become a QA Automation Engineer working with Python and FinTech sy
 This project is licensed under the MIT License
 You are free to use, copy, modify, and distribute this code.
 
+This project is distributed under the **MIT License**,  
+which allows anyone to freely use, modify, and share the code.  
+See the [LICENSE](LICENSE) file for details.
+
+
 
 
