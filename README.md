@@ -1,41 +1,65 @@
-🧩 Python Mini Projects
+# 🧩 Python Mini Projects
 
-Набор небольших Python-проектов, созданных для закрепления базовых и практических навыков программирования.
-Каждый проект — это отдельная задача, решающая конкретную проблему: от простых CLI-скриптов до работы с файлами, JSON, данными и логикой.
+A collection of small Python projects designed to reinforce **core programming skills** through practice.  
+Each project focuses on solving a specific real-world problem — from simple CLI scripts to working with files, JSON, data, and logic.
 
-🎯 Цели репозитория
+---
 
-Отработать Python через реальные мини-задачи
+## 🎯 Repository Goals
 
-Развить навык писать код самостоятельно, а не только повторять
+- Strengthen Python knowledge through **hands-on tasks**  
+- Develop the ability to **write code independently**, not just follow tutorials  
+- Build a solid foundation for:
+  - 🖥️ **Backend development** (FastAPI, databases)  
+  - 🧪 **QA Automation** (pytest, Selenium / Playwright)  
+  - 📊 **Data processing** (JSON, CSV, Faker, SQLite)  
+- Grow an engineering mindset and build a practical **portfolio**
 
-Подготовить фундамент для:
+---
 
-backend разработки (FastAPI, databases)
+## 📦 Contents
 
-QA automation (pytest, Selenium/Playwright)
+| Category | Projects |
+|-----------|-----------|
+| **CLI Tools** | 🧮 [Calculator](apps/calculator/README.md), 📝 To-Do Manager, 🔐 Password Generator |
+| **File Handling** | 📂 File Searcher, 🧾 Logger, 📦 Archiver |
+| **JSON / Data** | 📇 JSON Contacts Book, 🧰 Resume Builder, 🧮 Dataset Filters |
+| **Validation / Logic** | ✅ Input Validators, 🔄 Menu Systems |
+| **Mini-Apps** | 🌦️ Weather CLI App, 💱 Currency Converter, 📏 Unit Converter |
+| **SQL (later)** | 🗄️ SQLite mini-database (CRUD operations) |
 
-работы с данными (JSON, CSV, Faker, SQLite)
+Each project lives in its own folder and includes a **README.md** file with description and usage instructions.
 
-Формировать портфолио и инженерное мышление
+---
 
-📦 Содержание
-Категория	Проекты
-CLI Tools	калькулятор, To-Do manager, password generator
-Работа с файлами	файловый поиск, логгер, архиватор
-JSON / Data	JSON contacts book, resume builder, dataset filters
-Validation / Logic	input validators, menu systems
-Mini-apps	weather CLI app, currency converter, unit converter
-SQL (позже)	мини-база SQLite (CRUD)
+## 🛠️ Technologies
 
-Каждый проект — отдельная папка с собственным README.md.
+- **Python 3.x**
+- Built-in modules: `os`, `pathlib`, `json`, `random`, `datetime`
+- (later) `sqlite3`, `requests`, `pytest`
+- **Git + GitHub workflow** for version control and collaboration
 
-🛠 Технологии
+---
 
-Python 3.x
+## 📚 Learning Approach
 
-os, pathlib, json, random, datetime
+Each mini project serves as a **practical milestone** —  
+a small, self-contained exercise to test real coding skills and improve problem-solving ability.  
 
-(позже) sqlite3, requests, pytest
+---
 
-Git + GitHub workflow
+## 🗓️ My Progress Diary
+
+All learning logs and daily notes are stored in the  
+📁 [`/diary/`](diary/index.md) folder — documenting progress, reflections, and next goals.  
+
+Example entries:
+- 🧮 [Python Basics Completed — Calculator Project](diary/2025-11-07_python_basics_complete.md)
+- 💡 Next: Debug version improvements and To-Do Manager prototype
+
+---
+
+## 🪪 License
+
+This repository is distributed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
