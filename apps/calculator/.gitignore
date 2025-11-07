@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS and system files
+.DS_Store
+Thumbs.db
+
+# Build and distribution
+build/
+dist/
+*.spec
+*.exe
+*.log
+
+# Python packaging
+*.egg-info/
+.eggs/
+*.egg
+
+# Temporary files
+*.tmp
+*.bak
