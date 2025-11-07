@@ -45,11 +45,11 @@ a small, self-contained exercise to test real coding skills and improve problem-
 
 🗓️ Learning Diary
 
-All learning progress and daily reflections are documented in a separate repository:
-📘 Python Learning Diary
+All learning progress and daily reflections are documented in a separate repository:  
+📘 [Python Learning Diary](https://github.com/djcyden/Diary)
 
-Example entry:
-🧮 2025-11-07 — Python Basics Completed — Calculator Project
+Example entry:  
+🧮 [2025-11-07 — Python Basics Completed — Calculator Project](https://github.com/djcyden/Diary/blob/main/2025-11-07_python_basics_complete.md)
 
 🪪 License
 
